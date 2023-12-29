@@ -19,18 +19,6 @@ Sebagai Frontend Designer di detikcom, tugasnya adalah membuat microsite informa
 3. **Responsif:**
    - Memastikan struktur microsite responsif di tampilan desktop, iPad, dan mobile.
 
-### Struktur Folder
-Pastikan struktur folder rapi sebelum mengunggah ke Github.
-
-### Batas Waktu
-Waktu pengerjaan adalah 3 hari.
-
-### Pengumpulan
-- Unggah hasil pekerjaan ke Github dengan nama folder: `Detikcom_FrontendDesignAssignment_[NamaAnda]`.
-- Bagikan tautan proyek akhir kepada kami.
-
-Terima kasih atas dedikasinya dalam menyelesaikan tugas ini. Jika ada pertanyaan atau klarifikasi lebih lanjut, jangan ragu untuk menghubungi saya.
-
 Salam,  
 Lucky Wahyu Ramadhan  
 Frontend Designer, detikcom
