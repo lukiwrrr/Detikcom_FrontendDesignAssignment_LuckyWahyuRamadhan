@@ -1,3 +1,5 @@
+Pasti! Berikut deskripsi yang diperbarui dengan link yang dapat diklik:
+
 ### Detikhealth Sudirman Run 2023 Microsite
 
 ---
@@ -11,7 +13,7 @@ Sebagai Frontend Designer di detikcom, tugasnya adalah membuat microsite informa
 ### Tanggung Jawab
 1. **Menerjemahkan Desain UI ke dalam Kode:**
    - Melaksanakan Desain UI ke dalam struktur HTML, CSS, dan Javascript.
-   - Akses Desain UI dapat ditemukan [di sini]([link_desain_UI](https://www.figma.com/proto/jLvLD7yJe1qigyAl4aZaFb/%5BSKILL-TEST%5D---INTERNSHIP-DETIKCOM---FRONTEND-DESIGNER---V2?node-id=7-10&starting-point-node-id=7%3A10&scaling=min-zoom)).
+   - Akses Desain UI dapat ditemukan [di sini](https://www.figma.com/proto/jLvLD7yJe1qigyAl4aZaFb/%5BSKILL-TEST%5D---INTERNSHIP-DETIKCOM---FRONTEND-DESIGNER---V2?node-id=7-10&starting-point-node-id=7%3A10&scaling=min-zoom).
 
 2. **Penggunaan Bootstrap:**
    - Mengimplementasikan Bootstrap untuk merancang microsite sesuai dengan desain UI yang telah ditentukan.
@@ -24,4 +26,4 @@ Lucky Wahyu Ramadhan
 Frontend Designer, detikcom
 
 ---
-*Bagaimana menurutmu? Jika ada yang perlu ditambahkan atau dimodifikasi lagi, beri tahu saya ya!*
+*Semoga ini sudah sesuai dengan apa yang diharapkan. Apakah ada lagi yang bisa saya bantu?*
