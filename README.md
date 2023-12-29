@@ -11,7 +11,7 @@ Sebagai Frontend Designer di detikcom, tugasnya adalah membuat microsite informa
 ### Tanggung Jawab
 1. **Menerjemahkan Desain UI ke dalam Kode:**
    - Melaksanakan Desain UI ke dalam struktur HTML, CSS, dan Javascript.
-   - Akses Desain UI dapat ditemukan [di sini](link_desain_UI).
+   - Akses Desain UI dapat ditemukan [di sini]([link_desain_UI](https://www.figma.com/proto/jLvLD7yJe1qigyAl4aZaFb/%5BSKILL-TEST%5D---INTERNSHIP-DETIKCOM---FRONTEND-DESIGNER---V2?node-id=7-10&starting-point-node-id=7%3A10&scaling=min-zoom)).
 
 2. **Penggunaan Bootstrap:**
    - Mengimplementasikan Bootstrap untuk merancang microsite sesuai dengan desain UI yang telah ditentukan.
